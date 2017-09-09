@@ -1,0 +1,56 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+ 
+# ============================================= #
+# Visual Studio / MonoDevelop / Rider generated #
+# ============================================= #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+/.idea*/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+#my project
+[Tt]emp.meta
+/Assets/UnityVS.meta
+/Assets/UnityVS
+/UnityVS.tolua.v11.suo
+/UnityVS.tolua.CSharp.csproj
+/UnityVS.tolua.CSharp.Editor.csproj
+/UnityVS.tolua.sln
+/Assets/FR2_Cache.asset*
+/Assets/StreamingAssets/Android*
+/Assets/StreamingAssets/Win32*
+/Assets/AssetBundles*
+
+/AssetBundles/
+/Bin/
+AssetBundleServerURL*
+/ProjectSettings/ProjectVersion.txt
+aounity.log
+/Assets/GuPingTemp
+/Assets/GuPingTemp.meta
